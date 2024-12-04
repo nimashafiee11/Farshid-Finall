@@ -1,0 +1,49 @@
+# robots.txt for feroservice.info
+
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Allow: /public/
+Allow: /static/
+
+# Allow all search engines to index the main content
+Allow: /Services
+Allow: /AboutUs
+Allow: /CallUs
+Allow: /
+
+# Sitemap location
+Sitemap: https://feroservice.info/sitemap.xml
+
+# Crawl delay to prevent server overload
+Crawl-delay: 10
+
+# Specific bot handling
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+# Blocking unnecessary crawlers and spam bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SEMrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# End of file

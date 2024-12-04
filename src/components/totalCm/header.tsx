@@ -1,6 +1,6 @@
  'use client'
 import React from 'react'
-// import Services  from '../../app/ServicesPage/page'
+// import Services  from '../../app/services/page'
 import Link from 'next/link'
 import '../../css/photoo.css'
 import { useEffect } from 'react'
@@ -102,7 +102,7 @@ function Header() {
 	                        </li>
 
 	                        <li className="nav-item">
-							<Link href='/ServicesPage' className='px-3  text-body-emphasis bg-body-secondary-hover nav-link rounded-3 text-base leading-6 fw-semibold' >Dienstleistungen</Link>
+							<Link href='/Services' className='px-3  text-body-emphasis bg-body-secondary-hover nav-link rounded-3 text-base leading-6 fw-semibold' >Dienstleistungen</Link>
 	                        </li>
 
 	                        <li className="nav-item">

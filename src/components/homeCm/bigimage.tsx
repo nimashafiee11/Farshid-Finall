@@ -9,7 +9,7 @@ function bigimage() {
 	<div className="overflow-hidden py-7 py-sm-8 py-xl-9 d-none d-xl-block">
 		<div className="container">
 			<div className="ratio ratio-16x9">
-				<img src='images/photo8.webp' alt='bigPic' className='object-fit-cover rounded-3' />
+				<img src='/images/photo8.webp' alt='bigPic' className='object-fit-cover rounded-3' />
 		    </div>
 		</div>
 		

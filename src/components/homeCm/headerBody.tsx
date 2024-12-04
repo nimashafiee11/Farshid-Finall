@@ -6,7 +6,7 @@ function headerBody() {
     <React.Fragment>
         {/* <!-- header body --> */}
 	<div className="overflow-hidden position-relative">
-	  <img src='images/photo7.png' alt='bodyPic' className='position-absolute z-n1 top-0 h-100 w-100 object-fit-cover bg-info' id='photoo2'  />
+	  <img src='/images/photo7.png' alt='bodyPic' className='position-absolute z-n1 top-0 h-100 w-100 object-fit-cover bg-info' id='photoo2'  />
 {/* 
 	   <div class="overlay position-absolute z-n1 top-0 h-100 w-100 bg-dark"
 	        style="opacity: 0.85; mix-blend-mode: multiply; filter: contrast(1.15) brightness(0.85);">
@@ -25,10 +25,10 @@ function headerBody() {
 								Mehr Zeit für das Wesentliche – wir übernehmen die Reinigung!
 		                        </p>
 		                        <div className="mt-4 pt-3 d-flex align-items-center justify-content-center justify-content-xl-start column-gap-3">
-		                            <a href="../CallUs" className="btn  btn-lg btn-info text-white text-sm icon-link icon-link-hover bg-secondary-hover text-sm leading-6  fw-semibold" data-aos-delay="200" data-aos="fade" data-aos-duration="3000">
+		                            <a href="/CallUs" className="btn  btn-lg btn-info text-white text-sm icon-link icon-link-hover bg-secondary-hover text-sm leading-6  fw-semibold" data-aos-delay="200" data-aos="fade" data-aos-duration="3000">
 									Kontaktieren Sie uns
 		                            </a>
-		                            <a href="../AboutUs" className="btn btn-info btn-lg text-white icon-link icon-link-hover bg-secondary-hover text-sm leading-6 fw-semibold" data-aos-delay="300" data-aos="fade" data-aos-duration="3000">
+		                            <a href="/AboutSs" className="btn btn-info btn-lg text-white icon-link icon-link-hover bg-secondary-hover text-sm leading-6 fw-semibold" data-aos-delay="300" data-aos="fade" data-aos-duration="3000">
 									     mehr wissen  
 		                                <span className="bi align-self-start left-to-right" aria-hidden="true">→</span>
 		                                <span className="bi align-self-start right-to-left" aria-hidden="true">←</span>

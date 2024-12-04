@@ -46,7 +46,7 @@ function services() {
       				<div className="col pt-5 pt-xl-4">
 	                    <div className="max-w-xl mx-auto mx-xl-0" >
                         	<div className="">
-                               <img src='images/photo5.png' alt='servicepic' className='object-fit-cover rounded-3 img-fluid' />
+                               <img src='/images/photo5.png' alt='servicepic' className='object-fit-cover rounded-3 img-fluid' />
                             </div>
 
                             <h3 className="m-0 mt-4 text-body-emphasis text-lg leading-6 fw-semibold">
@@ -63,7 +63,7 @@ function services() {
 	                <div className="col pt-5 pt-xl-4">
 	                    <div className="max-w-xl mx-auto mx-xl-0" data-aos-delay="200" data-aos="fade" data-aos-duration="1000">
                         	<div className="">
-						     <img src='images/photo3.png' alt='servicepic2' className='object-fit-cover rounded-3 img-fluid' />
+						     <img src='/images/photo3.png' alt='servicepic2' className='object-fit-cover rounded-3 img-fluid' />
                             </div>
 
                             <h3 className="m-0 mt-4 text-body-emphasis text-lg leading-6 fw-semibold">
@@ -80,7 +80,7 @@ function services() {
 	        </div>
 
 	        <div className="text-center pt-7">
-	            <a href="../ServicesPage" className="btn btn-lg btn-info text-white icon-link icon-link-hover text-sm leading-6 fw-semibold">
+	            <a href="/Services" className="btn btn-lg btn-info text-white icon-link icon-link-hover text-sm leading-6 fw-semibold">
 				mehr Dienstleistungen
                     <span className="bi align-self-start left-to-right" aria-hidden="false">→</span>
                 </a>

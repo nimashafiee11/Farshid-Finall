@@ -1,6 +1,6 @@
 import React from 'react'
 // import photo4 from '../../../public/images/photo6.png'
-function AboutUsHm() {
+function aboutUsHm() {
   return (
     <React.Fragment>
         	{/* <!-- About Us --> */}
@@ -19,7 +19,7 @@ function AboutUsHm() {
 						In Übereinstimmung mit unseren ökologischen Werten haben wir uns bereits früh für umweltfreundliche Reinigungsmethoden entschieden. Dabei setzen wir ausschließlich milde Reinigungsmittel und schonende Geräte im Rahmen unserer Gebäudereinigungsdienste ein.
 						</p>
 						<div className="mt-4">
-							<a href="../AboutUs" className=" btn btn-info text-light icon-link icon-link-hover text-decoration-none text-sm leading-6 fw-bold">
+							<a href="/AboutUs" className=" btn btn-info text-light icon-link icon-link-hover text-decoration-none text-sm leading-6 fw-bold">
 							     Über uns
 			                    <span className="bi align-self-start left-to-right" aria-hidden="true">→</span>
 			                    
@@ -31,7 +31,7 @@ function AboutUsHm() {
 				<div className="col-12 col-xl-6">
 					<div className="mx-auto max-w-2xl">
                         <div className="ratio ratio-4x3" data-aos-delay="0" data-aos="fade" data-aos-duration="3000">
-                          <img src='images/photo6.png' alt='picture' className='object-fit-cover rounded-3'  loading='lazy' />
+                          <img src='/images/photo6.png' alt='picture' className='object-fit-cover rounded-3'  loading='lazy' />
                         </div>
 					</div>
 				</div>
@@ -44,4 +44,4 @@ function AboutUsHm() {
   )
 }
 
-export default AboutUsHm
+export default aboutUsHm

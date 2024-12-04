@@ -189,7 +189,7 @@ function GetInTouch() {
             >
               <div className="h-100 position-relative ms-xxl-5">
                 <div className="position-absolute top-0 end-0 bottom-0 start-0 z-n1 rounded-5">
-                  <img src="images/photo4.png" alt="PicDescription" className="w-100 h-100 rounded-3 object-fit-cover" />
+                  <img src="/images/photo4.png" alt="PicDescription" className="w-100 h-100 rounded-3 object-fit-cover" />
                 </div>
               </div>
             </div>

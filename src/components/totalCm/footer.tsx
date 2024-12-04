@@ -97,7 +97,7 @@ function footer() {
 							<Link href='/' className="p-0 text-dark nav-link leading-6 text-sm" >Startseite</Link>
 	                    </li>
 	                    <li className="nav-item">
-							<Link href="/ServicesPage"  className="p-0 text-dark nav-link leading-6 text-sm"  >Dienstleistungen</Link>
+							<Link href="/Services"  className="p-0 text-dark nav-link leading-6 text-sm"  >Dienstleistungen</Link>
 	                    </li>
 	                    <li className="nav-item">
 							<Link href="/AboutUs" className="p-0 text-dark nav-link leading-6 text-sm">Über uns</Link>

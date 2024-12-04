@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import "../../css/main.css";
 import "../../css/main.min.css";
-import AboutUsHm from "../../components/homeCm/AboutUsHm";
+import AboutUsHm from "../../components/homeCm/aboutUsHm";
 import Bigimage from "../../components/homeCm/bigimage";
 import GetInTouch from "../../components/homeCm/getInTouch";
 import HeaderBody from "../../components/homeCm/headerBody";

@@ -89,7 +89,7 @@ function Header() {
 	                    <h5 className="offcanvas-title m-0" id="offcanvasNavbar2Label">
 	                        <a className="navbar-brand" href="javascript:;">
 	                            <img src='/images/photoLogo.jpg' id='logoo' alt='LogoPic' className='' />
-								<span>FroService</span>
+								<span>FeroService</span>
 	                        </a>
 	                    </h5>
 	                    <button type="button" className="btn-close text-body-emphasis" data-bs-dismiss="offcanvas" aria-label="Close"></button>

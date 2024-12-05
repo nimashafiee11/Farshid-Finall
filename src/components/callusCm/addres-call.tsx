@@ -5,7 +5,7 @@ import React from 'react'
     function addresCall() {
 
    const openTell = ()=>{
-	window.open("https://t.me/" , '_blank')
+	window.open("https://t.me/Feroservice" , '_blank')
    }
    const openWhatsApp = ()=>{
 	window.open("https://wa.me/+491629087721" , '_blank')
@@ -131,8 +131,6 @@ import React from 'react'
 							</h3>
 							<div className="text-body leading-6 text-sm ">
 							    +491629087721
-								<br/>
-								+01629087721 
 							</div>
 						</div>
 						<div>
